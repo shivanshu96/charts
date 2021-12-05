@@ -1,5 +1,5 @@
 Project url - https://github.com/shivanshu96/charts.git
-Deployment url - 
+Deployment url - https://react-charts-deploy.herokuapp.com/
 
 Home Component -> 
 1st dropdown ask for chart type (BAR/PIE)
